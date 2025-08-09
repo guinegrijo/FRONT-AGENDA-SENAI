@@ -1,6 +1,6 @@
 # Projeto Base - React
 
-Este projeto fornece a estrutura inicial para um sistema com telas de **Login** e **Cadastro**, desenvolvido em **React com Vite**. O layout das telas está implementado, mas ainda não possui estilização ou lógica funcional.
+Este projeto fornece a estrutura inicial para um sistema com telas de **Login** e **Cadastro**, desenvolvido em **React com Vite**. O layout das telas está implementado.
 
 ## Objetivo da Sprint
 
